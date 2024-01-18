@@ -1,0 +1,61 @@
+body{
+    background-color: gray;
+}
+.header{
+    background-image: url(./image/img.jpg);
+    height: 100vh;
+    margin: 0px;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 30px;
+}
+.btn{
+    background-color: red;
+    color: white;
+    border: 1px solid red;
+    border-radius: 0.3rem;
+    width: 80px;
+    margin-top: 20px;
+}
+.Heading{
+    justify-content: center;
+    color: white;
+}
+.btn1{
+    border: 1px solid red;
+    border: 0.5rem;
+    color: white;
+    text-decoration: none;
+}
+.section1{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+    margin: 10px;
+    
+}
+.head1{
+    margin-top: 150px;
+}
+.section2{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+}
+.section3{
+    justify-content: center;
+    background-color: black;
+    color: white; 
+}
+.section4{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+    margin: 10px;
+}
+
